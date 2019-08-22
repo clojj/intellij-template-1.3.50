@@ -1,0 +1,3 @@
+rootProject.name = 'intellij-template-1.3.50'
+
+include ':app'
